@@ -36,7 +36,7 @@ Ready to dive deeper into our project's details? Discover the full story, in-dep
 
 ## ⚠ Future Changes
 - ICMP Ping Functionality
-- All in One Web Interface
+- All-in-One Web Interface
   
 
 <!-- About the Project -->
@@ -51,12 +51,34 @@ ARPoLan is a network security tool designed for network scanning and ARP spoofin
 
 
 <!-- Features -->
-### :dart: Features
+### 🎯 Features
 
 - Network Scanning: Discover devices on the local network by sending ARP requests and collecting responses.
 - ARP Spoofing: Perform ARP spoofing attacks to intercept and manipulate network traffic.
 - HID Functionality: Utilize the Atmega32u4's USB HID capabilities for additional attack vectors.
 - Real-time Monitoring: Visual and serial indicators for attack detection and network activity.
+
+
+<!-- etting Started -->
+## 🧰 Getting Started
+Prerequisites
+- Arduino IDE
+- Ethernet library
+- SPI library
+
+<!-- Installation -->
+### ⚙️ Installation
+Clone the Repository:
+```
+git clone https://github.com/cifertech/ARPoLAN.git
+```
+- Upload the Code: Use the Arduino IDE to upload the provided sketches to the Atmega32u4.
+- Connect the Hardware: visit CiferTech.net for Schematic
+
+
+<!-- Contributing -->
+## :wave: Contributing
+I welcome contributions to improve ARPoLan. If you have suggestions or enhancements, please open an issue or submit a pull request on GitHub.
 
 
 <!-- License --> 
