@@ -31,7 +31,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/esp32-div-your-swiss-army-knife-for-wireless-networks/). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/arpolan-network-monitoring-and-security-tool/). Click the link and explore further!
 
 
 ## ⚠ Future Changes
@@ -73,7 +73,7 @@ Clone the Repository:
 git clone https://github.com/cifertech/ARPoLAN.git
 ```
 - Upload the Code: Use the Arduino IDE to upload the provided sketches to the Atmega32u4.
-- Connect the Hardware: Check out [Schematic](https://github.com/cifertech/ARPoLAN/tree/main/Schematic) or visit CiferTech.net for Schematic
+- Connect the Hardware: Check out [Schematic](https://github.com/cifertech/ARPoLAN/tree/main/Schematic) or visit [CiferTech.net](https://cifertech.net/arpolan-network-monitoring-and-security-tool/) for Schematic
 
 
 <!-- Contributing -->
