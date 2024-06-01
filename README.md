@@ -46,7 +46,7 @@ ARPoLan is a network security tool designed for network scanning and ARP spoofin
 
 
 <div align="center"> 
-  <img src="https://github.com/cifertech/ESP32-DIV/assets/62047147/335e1228-4cb5-4aa0-9b72-c09dcf7b02f9" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/cifertech/ARPoLAN/assets/62047147/593631ab-769f-4ccb-b27d-4ea4459a8fac" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
@@ -73,7 +73,7 @@ Clone the Repository:
 git clone https://github.com/cifertech/ARPoLAN.git
 ```
 - Upload the Code: Use the Arduino IDE to upload the provided sketches to the Atmega32u4.
-- Connect the Hardware: visit CiferTech.net for Schematic
+- Connect the Hardware: Check out [Schematic](https://github.com/cifertech/ARPoLAN/tree/main/Schematic) or visit CiferTech.net for Schematic
 
 
 <!-- Contributing -->
